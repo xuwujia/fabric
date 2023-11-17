@@ -6,7 +6,7 @@
 #
 
 # if version not passed in, default to latest released version
-VERSION=2.5.4
+VERSION=2.4.6
 # if ca version not passed in, default to latest released version
 CA_VERSION=1.5.7
 
